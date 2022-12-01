@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UC2_Calculating_Daily_Wage/1.0.0": {
+        "runtime": {
+          "UC2_Calculating_Daily_Wage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UC2_Calculating_Daily_Wage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
