@@ -1,0 +1,15 @@
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\bin\Debug\net6.0\UC3_Added_Part_TIme.exe
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\bin\Debug\net6.0\UC3_Added_Part_TIme.deps.json
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\bin\Debug\net6.0\UC3_Added_Part_TIme.runtimeconfig.json
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\bin\Debug\net6.0\UC3_Added_Part_TIme.dll
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\bin\Debug\net6.0\UC3_Added_Part_TIme.pdb
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.csproj.AssemblyReference.cache
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.AssemblyInfoInputs.cache
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.AssemblyInfo.cs
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.dll
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\refint\UC3_Added_Part_TIme.dll
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.pdb
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\UC3_Added_Part_TIme.genruntimeconfig.cache
+E:\Bridgelabz\.net\UC3_Added_Part_TIme\obj\Debug\net6.0\ref\UC3_Added_Part_TIme.dll
